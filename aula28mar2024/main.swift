@@ -9,3 +9,5 @@ import Foundation
 
 print("Hello, World!")
 
+print("meu jaspion favorito")
+print("Aviso")
